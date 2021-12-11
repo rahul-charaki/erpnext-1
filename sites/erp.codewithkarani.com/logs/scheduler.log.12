@@ -1,0 +1,10 @@
+2021-11-21 19:32:58,612 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.codewithkarani.com
+2021-11-21 19:32:59,203 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.codewithkarani.com
+2021-11-21 19:32:59,458 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.codewithkarani.com
+2021-11-21 19:33:00,536 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.codewithkarani.com
+2021-11-21 19:33:00,733 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.codewithkarani.com
+2021-11-21 19:33:01,375 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.codewithkarani.com
+2021-11-21 19:33:01,596 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.codewithkarani.com
+2021-11-21 19:33:02,503 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.codewithkarani.com
+2021-11-21 19:33:02,807 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.codewithkarani.com
+2021-11-21 19:33:03,512 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.codewithkarani.com
