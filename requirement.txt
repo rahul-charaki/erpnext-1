@@ -1,0 +1,12 @@
+frappe   # https://github.com/frappe/frappe is installed during bench-init
+gocardless-pro
+googlemaps  # used in ERPNext, but dependency is defined in Frappe
+pandas
+plaid-python
+pycountry
+PyGithub
+python-stdnum
+python-youtube
+taxjar
+tweepy
+Unidecode
